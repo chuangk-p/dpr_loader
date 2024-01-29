@@ -1,0 +1,16 @@
+*__pycache__/
+*backup/
+*candel/
+*data/
+*configure/
+*_env/
+*logs/
+*.swp
+NOTE
+test.py
+*ipynb*
+*.ipynb
+*.ori
+*.env
+*.DS_Store
+.DS_Store
