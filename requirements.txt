@@ -1,7 +1,6 @@
-git+https://github.com/chuangk-p/dpr_loader.git
+git+https://github.com/terrierteam/pyterrier_dr.git
 torch==2.1.2
 python-terrier==0.10.0
 transformers>=4.35.2
 more-itertools
-pyterrier_dr==0.0.1
 numpy
